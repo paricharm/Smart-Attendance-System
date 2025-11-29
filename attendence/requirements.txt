@@ -1,0 +1,15 @@
+# Core ML/CV packages
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+facenet-pytorch>=2.5.0
+faiss-cpu>=1.7.4  # or faiss-gpu for GPU support
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
+Pillow>=9.5.0
+
+# Utilities
+tqdm>=4.65.0
