@@ -284,8 +284,8 @@ Example:
 ```csv
 Name,Date,Time
 moumita,2024-01-15,09:30:45
-Anupam,2024-01-15,09:31:20
-Arpan,2024-01-15,09:32:10
+Deutal,2024-01-15,09:31:20
+Eluax,2024-01-15,09:32:10
 ```
 
 ## 🔐 Security & Privacy
